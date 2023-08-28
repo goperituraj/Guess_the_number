@@ -3,6 +3,9 @@ body {
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+.first_line{
+  color:red;
+}
 .stotal {
   display: flex;
   flex-direction: column;
